@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/Doommer43/PersonalMovieDB/issues"
   },
-  "homepage": "https://github.com/Doommer43/PersonalMovieDB#readme"
+  "homepage": "https://github.com/Doommer43/PersonalMovieDB#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.5"
+  }
 }
