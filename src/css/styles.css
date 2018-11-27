@@ -6311,3 +6311,13 @@ a.text-dark:hover, a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6; } }
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px; }
+
+.bg-dark {
+  background-color: #000000 !important; }
+
+.bg-danger {
+  background-color: #1a1a1a !important; }
